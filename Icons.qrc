@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>icon.ico</file>
+    <file>cancel.png</file>
+    <file>plus.png</file>
+    <file>true.png</file>
+    <file>delete_icon.png</file>
+    <file>search_icon1.png</file>
+    <file>search_icon2.png</file>
+    <file>export.png</file>
+    <file>save.png</file>
+    <file>fgdwfs.png</file>
+  </qresource>
+</RCC>
